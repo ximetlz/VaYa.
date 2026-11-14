@@ -1,0 +1,26 @@
+{
+  "name": "VaYa | Gestión logística",
+  "short_name": "VaYa",
+  "description": "Gestión de pedidos, rutas y jornadas para repartidores independientes en México.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1321",
+  "theme_color": "#142236",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
